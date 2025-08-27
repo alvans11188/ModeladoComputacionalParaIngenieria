@@ -12,3 +12,5 @@ for i in range(n):
           matriz1[i][j][k]  = contador=contador+1
 
 print(matriz1)
+
+print(np.shape(matriz1))
