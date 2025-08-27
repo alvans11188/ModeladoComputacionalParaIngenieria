@@ -18,3 +18,4 @@ print(matriz1)
 #pero como no se puede incluir el parametros de hasta donde generar numeros aleatorios, simplemente seran puros decimales
 matriz2 = random.rand(3,5) 
 print(matriz2)
+
