@@ -11,4 +11,4 @@ def ej1(vars):
 
 
 sol=fsolve(ej1, [1, 1, 1])
-print("Ejercicio 9 - solucion aproximada (x,y,z) =", sol)
+print("Ejercicio 10 - solucion aproximada (x,y,z) =", sol)
